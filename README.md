@@ -1,2 +1,2 @@
-# Andrushchakevych.github.io
+# andrushchakevych-mykhaylo.github.io
 First project
